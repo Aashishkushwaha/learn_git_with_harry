@@ -1,2 +1,0 @@
-this is the util.txt file which 
-contains the utility functions.
